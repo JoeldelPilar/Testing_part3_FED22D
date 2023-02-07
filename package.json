@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "axios": "^1.2.0"
+  },
+  "scripts": {
+    "parcel": "npx parcel src/index.html --no-cache"
   }
 }
