@@ -1,0 +1,26 @@
+{
+    "Search":[
+        {
+            "Title": "Movie1",
+            "year": "1",
+            "imdbID": "1",
+            "Type": "1",
+            "Poster": "Poster of movie 1"
+        },
+        {
+            "Title": "Movie2",
+            "year": "2",
+            "imdbID": "2",
+            "Type": "2",
+            "Poster": "Poster of movie 2"
+        },
+        {
+            "Title": "Movie3",
+            "year": "3",
+            "imdbID": "3",
+            "Type": "3",
+            "Poster": "Poster of movie 3"
+        }
+    ]  
+}
+
